@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\bin\Debug\netcoreapp2.2\4thDigit.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\bin\Debug\netcoreapp2.2\4thDigit.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\bin\Debug\netcoreapp2.2\4thDigit.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\bin\Debug\netcoreapp2.2\4thDigit.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\bin\Debug\netcoreapp2.2\4thDigit.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\obj\Debug\netcoreapp2.2\4thDigit.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\obj\Debug\netcoreapp2.2\4thDigit.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\obj\Debug\netcoreapp2.2\4thDigit.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\obj\Debug\netcoreapp2.2\4thDigit.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\4thDigit\obj\Debug\netcoreapp2.2\4thDigit.pdb

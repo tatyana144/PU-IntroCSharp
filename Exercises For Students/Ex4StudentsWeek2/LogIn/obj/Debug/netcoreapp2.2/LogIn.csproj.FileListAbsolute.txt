@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\bin\Debug\netcoreapp2.2\LogIn.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\bin\Debug\netcoreapp2.2\LogIn.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\bin\Debug\netcoreapp2.2\LogIn.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\bin\Debug\netcoreapp2.2\LogIn.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\bin\Debug\netcoreapp2.2\LogIn.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\obj\Debug\netcoreapp2.2\LogIn.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\obj\Debug\netcoreapp2.2\LogIn.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\obj\Debug\netcoreapp2.2\LogIn.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\obj\Debug\netcoreapp2.2\LogIn.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\obj\Debug\netcoreapp2.2\LogIn.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\LogIn\obj\Debug\netcoreapp2.2\LogIn.pdb

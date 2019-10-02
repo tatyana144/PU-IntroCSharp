@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\obj\Debug\netcoreapp2.2\SpeedCalculation.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\obj\Debug\netcoreapp2.2\SpeedCalculation.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\obj\Debug\netcoreapp2.2\SpeedCalculation.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\obj\Debug\netcoreapp2.2\SpeedCalculation.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\bin\Debug\netcoreapp2.2\SpeedCalculation.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\bin\Debug\netcoreapp2.2\SpeedCalculation.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\bin\Debug\netcoreapp2.2\SpeedCalculation.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\bin\Debug\netcoreapp2.2\SpeedCalculation.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\bin\Debug\netcoreapp2.2\SpeedCalculation.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\obj\Debug\netcoreapp2.2\SpeedCalculation.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SpeedCalculation\obj\Debug\netcoreapp2.2\SpeedCalculation.pdb

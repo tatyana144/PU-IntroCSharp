@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\bin\Debug\netcoreapp2.2\HiProgram.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\bin\Debug\netcoreapp2.2\HiProgram.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\bin\Debug\netcoreapp2.2\HiProgram.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\bin\Debug\netcoreapp2.2\HiProgram.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\bin\Debug\netcoreapp2.2\HiProgram.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\obj\Debug\netcoreapp2.2\HiProgram.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\obj\Debug\netcoreapp2.2\HiProgram.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\obj\Debug\netcoreapp2.2\HiProgram.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\obj\Debug\netcoreapp2.2\HiProgram.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\HiProgram\obj\Debug\netcoreapp2.2\HiProgram.pdb

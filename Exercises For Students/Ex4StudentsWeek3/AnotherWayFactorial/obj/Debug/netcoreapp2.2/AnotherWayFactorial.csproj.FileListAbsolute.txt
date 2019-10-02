@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\bin\Debug\netcoreapp2.2\AnotherWayFactorial.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\bin\Debug\netcoreapp2.2\AnotherWayFactorial.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\bin\Debug\netcoreapp2.2\AnotherWayFactorial.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\bin\Debug\netcoreapp2.2\AnotherWayFactorial.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\bin\Debug\netcoreapp2.2\AnotherWayFactorial.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\obj\Debug\netcoreapp2.2\AnotherWayFactorial.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\obj\Debug\netcoreapp2.2\AnotherWayFactorial.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\obj\Debug\netcoreapp2.2\AnotherWayFactorial.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\obj\Debug\netcoreapp2.2\AnotherWayFactorial.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\AnotherWayFactorial\obj\Debug\netcoreapp2.2\AnotherWayFactorial.pdb

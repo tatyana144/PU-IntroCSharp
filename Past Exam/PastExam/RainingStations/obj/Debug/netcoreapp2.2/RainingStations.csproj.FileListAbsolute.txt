@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\bin\Debug\netcoreapp2.2\RainingStations.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\bin\Debug\netcoreapp2.2\RainingStations.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\bin\Debug\netcoreapp2.2\RainingStations.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\bin\Debug\netcoreapp2.2\RainingStations.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\bin\Debug\netcoreapp2.2\RainingStations.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\obj\Debug\netcoreapp2.2\RainingStations.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\obj\Debug\netcoreapp2.2\RainingStations.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\obj\Debug\netcoreapp2.2\RainingStations.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\obj\Debug\netcoreapp2.2\RainingStations.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\obj\Debug\netcoreapp2.2\RainingStations.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\RainingStations\obj\Debug\netcoreapp2.2\RainingStations.pdb

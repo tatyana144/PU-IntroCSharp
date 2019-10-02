@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\bin\Debug\netcoreapp2.2\CircleArea.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\CircleArea\obj\Debug\netcoreapp2.2\CircleArea.pdb

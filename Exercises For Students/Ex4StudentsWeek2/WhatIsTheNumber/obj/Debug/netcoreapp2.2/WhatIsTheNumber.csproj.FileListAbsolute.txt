@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\bin\Debug\netcoreapp2.2\WhatIsTheNumber.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\bin\Debug\netcoreapp2.2\WhatIsTheNumber.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\bin\Debug\netcoreapp2.2\WhatIsTheNumber.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\bin\Debug\netcoreapp2.2\WhatIsTheNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\bin\Debug\netcoreapp2.2\WhatIsTheNumber.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\obj\Debug\netcoreapp2.2\WhatIsTheNumber.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\obj\Debug\netcoreapp2.2\WhatIsTheNumber.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\obj\Debug\netcoreapp2.2\WhatIsTheNumber.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\obj\Debug\netcoreapp2.2\WhatIsTheNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\WhatIsTheNumber\obj\Debug\netcoreapp2.2\WhatIsTheNumber.pdb

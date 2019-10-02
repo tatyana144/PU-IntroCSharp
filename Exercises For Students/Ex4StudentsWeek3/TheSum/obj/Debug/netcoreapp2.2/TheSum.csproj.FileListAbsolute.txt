@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\obj\Debug\netcoreapp2.2\TheSum.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\obj\Debug\netcoreapp2.2\TheSum.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\obj\Debug\netcoreapp2.2\TheSum.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\obj\Debug\netcoreapp2.2\TheSum.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\bin\Debug\netcoreapp2.2\TheSum.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\bin\Debug\netcoreapp2.2\TheSum.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\bin\Debug\netcoreapp2.2\TheSum.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\bin\Debug\netcoreapp2.2\TheSum.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\bin\Debug\netcoreapp2.2\TheSum.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\obj\Debug\netcoreapp2.2\TheSum.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TheSum\obj\Debug\netcoreapp2.2\TheSum.pdb

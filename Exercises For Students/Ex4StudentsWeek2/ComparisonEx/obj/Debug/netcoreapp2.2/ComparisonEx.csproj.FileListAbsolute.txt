@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\bin\Debug\netcoreapp2.2\ComparisonEx.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\bin\Debug\netcoreapp2.2\ComparisonEx.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\bin\Debug\netcoreapp2.2\ComparisonEx.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\bin\Debug\netcoreapp2.2\ComparisonEx.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\bin\Debug\netcoreapp2.2\ComparisonEx.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\obj\Debug\netcoreapp2.2\ComparisonEx.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\obj\Debug\netcoreapp2.2\ComparisonEx.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\obj\Debug\netcoreapp2.2\ComparisonEx.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\obj\Debug\netcoreapp2.2\ComparisonEx.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\obj\Debug\netcoreapp2.2\ComparisonEx.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ComparisonEx\obj\Debug\netcoreapp2.2\ComparisonEx.pdb

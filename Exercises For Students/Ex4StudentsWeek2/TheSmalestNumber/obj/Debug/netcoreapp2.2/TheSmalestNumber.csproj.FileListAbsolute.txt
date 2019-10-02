@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\bin\Debug\netcoreapp2.2\TheSmalestNumber.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\bin\Debug\netcoreapp2.2\TheSmalestNumber.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\bin\Debug\netcoreapp2.2\TheSmalestNumber.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\bin\Debug\netcoreapp2.2\TheSmalestNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\bin\Debug\netcoreapp2.2\TheSmalestNumber.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\obj\Debug\netcoreapp2.2\TheSmalestNumber.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\obj\Debug\netcoreapp2.2\TheSmalestNumber.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\obj\Debug\netcoreapp2.2\TheSmalestNumber.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\obj\Debug\netcoreapp2.2\TheSmalestNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TheSmalestNumber\obj\Debug\netcoreapp2.2\TheSmalestNumber.pdb

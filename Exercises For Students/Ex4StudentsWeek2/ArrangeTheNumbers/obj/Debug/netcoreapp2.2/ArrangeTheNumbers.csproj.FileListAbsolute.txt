@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\bin\Debug\netcoreapp2.2\ArrangeTheNumbers.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\bin\Debug\netcoreapp2.2\ArrangeTheNumbers.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\bin\Debug\netcoreapp2.2\ArrangeTheNumbers.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\bin\Debug\netcoreapp2.2\ArrangeTheNumbers.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\bin\Debug\netcoreapp2.2\ArrangeTheNumbers.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\obj\Debug\netcoreapp2.2\ArrangeTheNumbers.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\obj\Debug\netcoreapp2.2\ArrangeTheNumbers.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\obj\Debug\netcoreapp2.2\ArrangeTheNumbers.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\obj\Debug\netcoreapp2.2\ArrangeTheNumbers.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\obj\Debug\netcoreapp2.2\ArrangeTheNumbers.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ArrangeTheNumbers\obj\Debug\netcoreapp2.2\ArrangeTheNumbers.pdb

@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\bin\Debug\netcoreapp2.2\NumberComparison.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\bin\Debug\netcoreapp2.2\NumberComparison.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\bin\Debug\netcoreapp2.2\NumberComparison.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\bin\Debug\netcoreapp2.2\NumberComparison.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\bin\Debug\netcoreapp2.2\NumberComparison.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\obj\Debug\netcoreapp2.2\NumberComparison.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\obj\Debug\netcoreapp2.2\NumberComparison.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\obj\Debug\netcoreapp2.2\NumberComparison.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\obj\Debug\netcoreapp2.2\NumberComparison.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\obj\Debug\netcoreapp2.2\NumberComparison.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\NumberComparison\obj\Debug\netcoreapp2.2\NumberComparison.csprojAssemblyReference.cache

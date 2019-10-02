@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\bin\Debug\netcoreapp2.2\AgeAfterTenYears.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\bin\Debug\netcoreapp2.2\AgeAfterTenYears.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\bin\Debug\netcoreapp2.2\AgeAfterTenYears.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\bin\Debug\netcoreapp2.2\AgeAfterTenYears.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\bin\Debug\netcoreapp2.2\AgeAfterTenYears.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\obj\Debug\netcoreapp2.2\AgeAfterTenYears.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\obj\Debug\netcoreapp2.2\AgeAfterTenYears.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\obj\Debug\netcoreapp2.2\AgeAfterTenYears.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\obj\Debug\netcoreapp2.2\AgeAfterTenYears.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\obj\Debug\netcoreapp2.2\AgeAfterTenYears.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\AgeAfterTenYears\obj\Debug\netcoreapp2.2\AgeAfterTenYears.pdb

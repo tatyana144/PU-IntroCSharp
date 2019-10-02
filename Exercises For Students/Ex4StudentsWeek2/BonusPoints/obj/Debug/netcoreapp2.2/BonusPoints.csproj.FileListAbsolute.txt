@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.pdb

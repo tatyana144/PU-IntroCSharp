@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\bin\Debug\netcoreapp2.2\MultiplicationInTheInterval.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\bin\Debug\netcoreapp2.2\MultiplicationInTheInterval.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\bin\Debug\netcoreapp2.2\MultiplicationInTheInterval.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\bin\Debug\netcoreapp2.2\MultiplicationInTheInterval.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\bin\Debug\netcoreapp2.2\MultiplicationInTheInterval.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\obj\Debug\netcoreapp2.2\MultiplicationInTheInterval.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\obj\Debug\netcoreapp2.2\MultiplicationInTheInterval.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\obj\Debug\netcoreapp2.2\MultiplicationInTheInterval.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\obj\Debug\netcoreapp2.2\MultiplicationInTheInterval.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\MultiplicationInTheInterval\obj\Debug\netcoreapp2.2\MultiplicationInTheInterval.pdb

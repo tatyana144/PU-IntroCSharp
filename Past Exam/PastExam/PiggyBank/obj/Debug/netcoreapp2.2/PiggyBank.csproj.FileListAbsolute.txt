@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\bin\Debug\netcoreapp2.2\PiggyBank.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\PiggyBank\obj\Debug\netcoreapp2.2\PiggyBank.pdb

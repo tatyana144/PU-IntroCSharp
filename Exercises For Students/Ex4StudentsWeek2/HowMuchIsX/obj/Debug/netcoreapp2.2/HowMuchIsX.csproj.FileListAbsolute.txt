@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\bin\Debug\netcoreapp2.2\HowMuchIsX.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\bin\Debug\netcoreapp2.2\HowMuchIsX.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\bin\Debug\netcoreapp2.2\HowMuchIsX.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\bin\Debug\netcoreapp2.2\HowMuchIsX.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\bin\Debug\netcoreapp2.2\HowMuchIsX.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\obj\Debug\netcoreapp2.2\HowMuchIsX.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\obj\Debug\netcoreapp2.2\HowMuchIsX.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\obj\Debug\netcoreapp2.2\HowMuchIsX.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\obj\Debug\netcoreapp2.2\HowMuchIsX.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\obj\Debug\netcoreapp2.2\HowMuchIsX.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\HowMuchIsX\obj\Debug\netcoreapp2.2\HowMuchIsX.pdb

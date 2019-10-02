@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\bin\Debug\netcoreapp2.2\ColoredString.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\bin\Debug\netcoreapp2.2\ColoredString.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\bin\Debug\netcoreapp2.2\ColoredString.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\bin\Debug\netcoreapp2.2\ColoredString.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\bin\Debug\netcoreapp2.2\ColoredString.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\obj\Debug\netcoreapp2.2\ColoredString.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\obj\Debug\netcoreapp2.2\ColoredString.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\obj\Debug\netcoreapp2.2\ColoredString.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\obj\Debug\netcoreapp2.2\ColoredString.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ColoredString\obj\Debug\netcoreapp2.2\ColoredString.pdb

@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\bin\Debug\netcoreapp2.2\SimpleNumbersInInterval.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\bin\Debug\netcoreapp2.2\SimpleNumbersInInterval.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\bin\Debug\netcoreapp2.2\SimpleNumbersInInterval.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\bin\Debug\netcoreapp2.2\SimpleNumbersInInterval.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\bin\Debug\netcoreapp2.2\SimpleNumbersInInterval.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\obj\Debug\netcoreapp2.2\SimpleNumbersInInterval.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\obj\Debug\netcoreapp2.2\SimpleNumbersInInterval.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\obj\Debug\netcoreapp2.2\SimpleNumbersInInterval.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\obj\Debug\netcoreapp2.2\SimpleNumbersInInterval.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\SimpleNumbersInInterval\obj\Debug\netcoreapp2.2\SimpleNumbersInInterval.pdb

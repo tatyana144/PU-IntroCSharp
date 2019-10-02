@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\obj\Debug\netcoreapp2.2\ConditionalЕxercise.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\obj\Debug\netcoreapp2.2\ConditionalЕxercise.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\obj\Debug\netcoreapp2.2\ConditionalЕxercise.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\obj\Debug\netcoreapp2.2\ConditionalЕxercise.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\bin\Debug\netcoreapp2.2\ConditionalЕxercise.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\bin\Debug\netcoreapp2.2\ConditionalЕxercise.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\bin\Debug\netcoreapp2.2\ConditionalЕxercise.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\bin\Debug\netcoreapp2.2\ConditionalЕxercise.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\bin\Debug\netcoreapp2.2\ConditionalЕxercise.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\obj\Debug\netcoreapp2.2\ConditionalЕxercise.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\ConditionalЕxercise\obj\Debug\netcoreapp2.2\ConditionalЕxercise.pdb

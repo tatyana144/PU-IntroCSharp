@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\bin\Debug\netcoreapp2.2\TypeOfTriangle.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\bin\Debug\netcoreapp2.2\TypeOfTriangle.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\bin\Debug\netcoreapp2.2\TypeOfTriangle.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\bin\Debug\netcoreapp2.2\TypeOfTriangle.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\bin\Debug\netcoreapp2.2\TypeOfTriangle.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\obj\Debug\netcoreapp2.2\TypeOfTriangle.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\obj\Debug\netcoreapp2.2\TypeOfTriangle.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\obj\Debug\netcoreapp2.2\TypeOfTriangle.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\obj\Debug\netcoreapp2.2\TypeOfTriangle.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\obj\Debug\netcoreapp2.2\TypeOfTriangle.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\TypeOfTriangle\obj\Debug\netcoreapp2.2\TypeOfTriangle.pdb

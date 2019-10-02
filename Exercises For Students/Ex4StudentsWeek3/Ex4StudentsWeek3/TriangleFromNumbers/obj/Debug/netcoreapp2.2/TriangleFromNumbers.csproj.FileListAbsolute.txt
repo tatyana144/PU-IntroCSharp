@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\bin\Debug\netcoreapp2.2\TriangleFromNumbers.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\bin\Debug\netcoreapp2.2\TriangleFromNumbers.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\bin\Debug\netcoreapp2.2\TriangleFromNumbers.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\bin\Debug\netcoreapp2.2\TriangleFromNumbers.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\bin\Debug\netcoreapp2.2\TriangleFromNumbers.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\obj\Debug\netcoreapp2.2\TriangleFromNumbers.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\obj\Debug\netcoreapp2.2\TriangleFromNumbers.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\obj\Debug\netcoreapp2.2\TriangleFromNumbers.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\obj\Debug\netcoreapp2.2\TriangleFromNumbers.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\TriangleFromNumbers\obj\Debug\netcoreapp2.2\TriangleFromNumbers.pdb

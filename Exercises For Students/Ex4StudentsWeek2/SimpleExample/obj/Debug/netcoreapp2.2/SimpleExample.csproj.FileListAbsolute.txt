@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\bin\Debug\netcoreapp2.2\SimpleExample.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\bin\Debug\netcoreapp2.2\SimpleExample.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\bin\Debug\netcoreapp2.2\SimpleExample.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\bin\Debug\netcoreapp2.2\SimpleExample.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\bin\Debug\netcoreapp2.2\SimpleExample.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\obj\Debug\netcoreapp2.2\SimpleExample.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\obj\Debug\netcoreapp2.2\SimpleExample.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\obj\Debug\netcoreapp2.2\SimpleExample.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\obj\Debug\netcoreapp2.2\SimpleExample.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SimpleExample\obj\Debug\netcoreapp2.2\SimpleExample.pdb

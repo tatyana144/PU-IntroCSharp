@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.2\TheUniqueNumber.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.2\TheUniqueNumber.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.2\TheUniqueNumber.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.2\TheUniqueNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\bin\Debug\netcoreapp2.2\TheUniqueNumber.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.2\TheUniqueNumber.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.2\TheUniqueNumber.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.2\TheUniqueNumber.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.2\TheUniqueNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Homework\PuIntroHomeworks\PuIntroHomeworks\TheUniqueNumber\obj\Debug\netcoreapp2.2\TheUniqueNumber.pdb

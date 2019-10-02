@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\bin\Debug\netcoreapp2.2\SwitchCaseExample.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\bin\Debug\netcoreapp2.2\SwitchCaseExample.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\bin\Debug\netcoreapp2.2\SwitchCaseExample.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\bin\Debug\netcoreapp2.2\SwitchCaseExample.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\bin\Debug\netcoreapp2.2\SwitchCaseExample.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\obj\Debug\netcoreapp2.2\SwitchCaseExample.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\obj\Debug\netcoreapp2.2\SwitchCaseExample.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\obj\Debug\netcoreapp2.2\SwitchCaseExample.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\obj\Debug\netcoreapp2.2\SwitchCaseExample.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\obj\Debug\netcoreapp2.2\SwitchCaseExample.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SwitchCaseExample\obj\Debug\netcoreapp2.2\SwitchCaseExample.pdb

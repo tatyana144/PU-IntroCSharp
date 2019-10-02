@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\bin\Debug\netcoreapp2.2\HappyNumbers.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\bin\Debug\netcoreapp2.2\HappyNumbers.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\bin\Debug\netcoreapp2.2\HappyNumbers.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\bin\Debug\netcoreapp2.2\HappyNumbers.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\bin\Debug\netcoreapp2.2\HappyNumbers.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\obj\Debug\netcoreapp2.2\HappyNumbers.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\obj\Debug\netcoreapp2.2\HappyNumbers.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\obj\Debug\netcoreapp2.2\HappyNumbers.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\obj\Debug\netcoreapp2.2\HappyNumbers.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\obj\Debug\netcoreapp2.2\HappyNumbers.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4StudentsWeek3\Ex4StudentsWeek3\HappyNumbers\obj\Debug\netcoreapp2.2\HappyNumbers.pdb

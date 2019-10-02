@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\bin\Debug\netcoreapp2.2\CreateNewNumber.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\bin\Debug\netcoreapp2.2\CreateNewNumber.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\bin\Debug\netcoreapp2.2\CreateNewNumber.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\bin\Debug\netcoreapp2.2\CreateNewNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\bin\Debug\netcoreapp2.2\CreateNewNumber.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\obj\Debug\netcoreapp2.2\CreateNewNumber.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\obj\Debug\netcoreapp2.2\CreateNewNumber.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\obj\Debug\netcoreapp2.2\CreateNewNumber.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\obj\Debug\netcoreapp2.2\CreateNewNumber.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\CreateNewNumber\obj\Debug\netcoreapp2.2\CreateNewNumber.pdb

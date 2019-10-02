@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\bin\Debug\netcoreapp2.2\BinarySystem.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\bin\Debug\netcoreapp2.2\BinarySystem.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\bin\Debug\netcoreapp2.2\BinarySystem.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\bin\Debug\netcoreapp2.2\BinarySystem.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\bin\Debug\netcoreapp2.2\BinarySystem.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\obj\Debug\netcoreapp2.2\BinarySystem.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\obj\Debug\netcoreapp2.2\BinarySystem.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\obj\Debug\netcoreapp2.2\BinarySystem.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\obj\Debug\netcoreapp2.2\BinarySystem.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\BinarySystem\obj\Debug\netcoreapp2.2\BinarySystem.pdb

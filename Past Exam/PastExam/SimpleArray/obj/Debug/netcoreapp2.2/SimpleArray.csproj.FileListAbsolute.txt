@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\bin\Debug\netcoreapp2.2\SimpleArray.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\bin\Debug\netcoreapp2.2\SimpleArray.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\bin\Debug\netcoreapp2.2\SimpleArray.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\bin\Debug\netcoreapp2.2\SimpleArray.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\bin\Debug\netcoreapp2.2\SimpleArray.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\obj\Debug\netcoreapp2.2\SimpleArray.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\obj\Debug\netcoreapp2.2\SimpleArray.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\obj\Debug\netcoreapp2.2\SimpleArray.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\obj\Debug\netcoreapp2.2\SimpleArray.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\obj\Debug\netcoreapp2.2\SimpleArray.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Past Exam\PastExam\SimpleArray\obj\Debug\netcoreapp2.2\SimpleArray.pdb

@@ -1,0 +1,11 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\bin\Debug\netcoreapp2.2\PriceForTransport.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\bin\Debug\netcoreapp2.2\PriceForTransport.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\bin\Debug\netcoreapp2.2\PriceForTransport.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\bin\Debug\netcoreapp2.2\PriceForTransport.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\bin\Debug\netcoreapp2.2\PriceForTransport.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\obj\Debug\netcoreapp2.2\PriceForTransport.csprojAssemblyReference.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\obj\Debug\netcoreapp2.2\PriceForTransport.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\obj\Debug\netcoreapp2.2\PriceForTransport.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\obj\Debug\netcoreapp2.2\PriceForTransport.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\obj\Debug\netcoreapp2.2\PriceForTransport.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\PriceForTransport\obj\Debug\netcoreapp2.2\PriceForTransport.pdb

@@ -1,0 +1,10 @@
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\bin\Debug\netcoreapp2.2\SeasonSymbols.deps.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\bin\Debug\netcoreapp2.2\SeasonSymbols.runtimeconfig.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\bin\Debug\netcoreapp2.2\SeasonSymbols.runtimeconfig.dev.json
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\bin\Debug\netcoreapp2.2\SeasonSymbols.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\bin\Debug\netcoreapp2.2\SeasonSymbols.pdb
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\obj\Debug\netcoreapp2.2\SeasonSymbols.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\obj\Debug\netcoreapp2.2\SeasonSymbols.AssemblyInfoInputs.cache
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\obj\Debug\netcoreapp2.2\SeasonSymbols.AssemblyInfo.cs
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\obj\Debug\netcoreapp2.2\SeasonSymbols.dll
+D:\ФМИ\3year\my-pu-intro-with-csharp\Exercise For Students\Ex4Students\SeasonSymbols\obj\Debug\netcoreapp2.2\SeasonSymbols.pdb
