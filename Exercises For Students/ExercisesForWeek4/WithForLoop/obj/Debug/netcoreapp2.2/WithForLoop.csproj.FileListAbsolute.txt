@@ -1,0 +1,11 @@
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\bin\Debug\netcoreapp2.2\WithForLoop.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\bin\Debug\netcoreapp2.2\WithForLoop.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\bin\Debug\netcoreapp2.2\WithForLoop.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\bin\Debug\netcoreapp2.2\WithForLoop.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\bin\Debug\netcoreapp2.2\WithForLoop.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\obj\Debug\netcoreapp2.2\WithForLoop.csprojAssemblyReference.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\obj\Debug\netcoreapp2.2\WithForLoop.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\obj\Debug\netcoreapp2.2\WithForLoop.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\obj\Debug\netcoreapp2.2\WithForLoop.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\obj\Debug\netcoreapp2.2\WithForLoop.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForLoop\obj\Debug\netcoreapp2.2\WithForLoop.pdb

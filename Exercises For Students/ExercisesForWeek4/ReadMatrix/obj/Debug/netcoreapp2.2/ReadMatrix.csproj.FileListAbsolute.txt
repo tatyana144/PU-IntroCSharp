@@ -1,0 +1,11 @@
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\bin\Debug\netcoreapp2.2\ReadMatrix.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\bin\Debug\netcoreapp2.2\ReadMatrix.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\bin\Debug\netcoreapp2.2\ReadMatrix.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\bin\Debug\netcoreapp2.2\ReadMatrix.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\bin\Debug\netcoreapp2.2\ReadMatrix.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\obj\Debug\netcoreapp2.2\ReadMatrix.csprojAssemblyReference.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\obj\Debug\netcoreapp2.2\ReadMatrix.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\obj\Debug\netcoreapp2.2\ReadMatrix.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\obj\Debug\netcoreapp2.2\ReadMatrix.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\obj\Debug\netcoreapp2.2\ReadMatrix.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReadMatrix\obj\Debug\netcoreapp2.2\ReadMatrix.pdb

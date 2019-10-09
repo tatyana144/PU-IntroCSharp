@@ -1,0 +1,10 @@
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\bin\Debug\netcoreapp2.2\Method.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\bin\Debug\netcoreapp2.2\Method.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\bin\Debug\netcoreapp2.2\Method.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\bin\Debug\netcoreapp2.2\Method.dll
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\bin\Debug\netcoreapp2.2\Method.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\obj\Debug\netcoreapp2.2\Method.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\obj\Debug\netcoreapp2.2\Method.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\obj\Debug\netcoreapp2.2\Method.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\obj\Debug\netcoreapp2.2\Method.dll
+D:\ФМИ\3year\PU-IntroCSharp\Demos\Method\obj\Debug\netcoreapp2.2\Method.pdb

@@ -1,0 +1,11 @@
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\bin\Debug\netcoreapp2.2\ReverseArray.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.csprojAssemblyReference.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\ReverseArray\obj\Debug\netcoreapp2.2\ReverseArray.pdb

@@ -1,0 +1,10 @@
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\bin\Debug\netcoreapp2.2\WithForeachLoop.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\bin\Debug\netcoreapp2.2\WithForeachLoop.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\bin\Debug\netcoreapp2.2\WithForeachLoop.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\bin\Debug\netcoreapp2.2\WithForeachLoop.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\bin\Debug\netcoreapp2.2\WithForeachLoop.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\obj\Debug\netcoreapp2.2\WithForeachLoop.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\obj\Debug\netcoreapp2.2\WithForeachLoop.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\obj\Debug\netcoreapp2.2\WithForeachLoop.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\obj\Debug\netcoreapp2.2\WithForeachLoop.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\WithForeachLoop\obj\Debug\netcoreapp2.2\WithForeachLoop.pdb

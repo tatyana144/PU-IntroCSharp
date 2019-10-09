@@ -1,0 +1,10 @@
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\bin\Debug\netcoreapp2.2\PrintMatrix.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\bin\Debug\netcoreapp2.2\PrintMatrix.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\bin\Debug\netcoreapp2.2\PrintMatrix.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\bin\Debug\netcoreapp2.2\PrintMatrix.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\bin\Debug\netcoreapp2.2\PrintMatrix.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\obj\Debug\netcoreapp2.2\PrintMatrix.csproj.CoreCompileInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\obj\Debug\netcoreapp2.2\PrintMatrix.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\obj\Debug\netcoreapp2.2\PrintMatrix.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\obj\Debug\netcoreapp2.2\PrintMatrix.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\ExercisesForWeek4\PrintMatrix\obj\Debug\netcoreapp2.2\PrintMatrix.pdb
