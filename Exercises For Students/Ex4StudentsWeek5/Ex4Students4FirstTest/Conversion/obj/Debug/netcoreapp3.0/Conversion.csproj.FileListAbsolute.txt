@@ -1,0 +1,11 @@
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\bin\Debug\netcoreapp3.0\Conversion.exe
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\bin\Debug\netcoreapp3.0\Conversion.deps.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\bin\Debug\netcoreapp3.0\Conversion.runtimeconfig.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\bin\Debug\netcoreapp3.0\Conversion.runtimeconfig.dev.json
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\bin\Debug\netcoreapp3.0\Conversion.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\bin\Debug\netcoreapp3.0\Conversion.pdb
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\obj\Debug\netcoreapp3.0\Conversion.csprojAssemblyReference.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\obj\Debug\netcoreapp3.0\Conversion.AssemblyInfoInputs.cache
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\obj\Debug\netcoreapp3.0\Conversion.AssemblyInfo.cs
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\obj\Debug\netcoreapp3.0\Conversion.dll
+D:\ФМИ\3year\PU-IntroCSharp\Exercises For Students\Ex4StudentsWeek5\Ex4Students4FirstTest\Conversion\obj\Debug\netcoreapp3.0\Conversion.pdb

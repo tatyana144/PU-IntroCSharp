@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ФМИ\\3year\\my-pu-intro-with-csharp\\Exercise For Students\\Ex4StudentsWeek3\\Ex4StudentsWeek3\\TOTO\\TOTO.csproj",
+      "projectUniqueName": "D:\\ФМИ\\3year\\PU-IntroCSharp\\Exercises For Students\\Ex4StudentsWeek3\\TOTO\\TOTO.csproj",
       "projectName": "TOTO",
-      "projectPath": "D:\\ФМИ\\3year\\my-pu-intro-with-csharp\\Exercise For Students\\Ex4StudentsWeek3\\Ex4StudentsWeek3\\TOTO\\TOTO.csproj",
+      "projectPath": "D:\\ФМИ\\3year\\PU-IntroCSharp\\Exercises For Students\\Ex4StudentsWeek3\\TOTO\\TOTO.csproj",
       "packagesPath": "C:\\Users\\tatya\\.nuget\\packages\\",
-      "outputPath": "D:\\ФМИ\\3year\\my-pu-intro-with-csharp\\Exercise For Students\\Ex4StudentsWeek3\\Ex4StudentsWeek3\\TOTO\\obj\\",
+      "outputPath": "D:\\ФМИ\\3year\\PU-IntroCSharp\\Exercises For Students\\Ex4StudentsWeek3\\TOTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,10 +734,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
